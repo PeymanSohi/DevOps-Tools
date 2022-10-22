@@ -405,7 +405,7 @@ Features and Benefits:
 -	Detects and deploys new services and offers real-time agent health to lower downtimes
 ## [Terraform](https://www.terraform.io/)
 <a>  
-    <p align="center"><img src="img/tools/terraform.png" width="600"></p>
+    <p align="center"><img src="img/tools/terrafkrm.png" width="600"></p>
 </a>
 One of the notable Infrastructure as Code DevOps tools in the market is Terraform by HashiCorp. It’s an open source IaC tool that offers a consistent Command Line Interface (CLI) workflow to help you manage several cloud services.
 Terraform was written in Go by Mitchell Hashimoto and was released in 2014. It incorporates HashiCorp Configuration Language (HCL), which is a declarative language to allow you to define and offer data center infrastructure. However, you can also use JSON optionally.
