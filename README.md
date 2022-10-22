@@ -378,7 +378,7 @@ Features and Benefits:
 
 ## [Vagrant](https://www.vagrantup.com/)
 <a>  
-    <p align="center"><img src="img/tools/Vagrant.png" width="600"></p>
+    <p align="center"><img src="img/tools/vagrant.png" width="600"></p>
 </a>
 No matter your role, be it a developer, designer, or operator, in your DevOps team, Vagrant by HashiCorp offers the same, effortless workflow for everyone.
 Vagrant was written in Ruby by Mitchell Hashimoto, and released in 2010. It’s an open-source software to build and maintain portable, lightweight, and reproducible virtual environments like Docker Containers, AWS, VMware, etc. for software development.
@@ -393,7 +393,7 @@ Features and Benefits:
 
 ## [Consul](https://www.consul.io/)
 <a>  
-    <p align="center"><img src="img/tools/Consul.png" width="600"></p>
+    <p align="center"><img src="img/tools/consul.png" width="600"></p>
 </a>
 One of the best DevOps tools for configuration management is Consul by HashiCorp. It allows you to automate network configurations, use secure connections, and discover services across runtime or in the cloud. This tool is ideal for modern infrastructures.
 Features and Benefits:
@@ -405,7 +405,7 @@ Features and Benefits:
 -	Detects and deploys new services and offers real-time agent health to lower downtimes
 ## [Terraform](https://www.terraform.io/)
 <a>  
-    <p align="center"><img src="img/tools/Terraform.png" width="600"></p>
+    <p align="center"><img src="img/tools/terraform.png" width="600"></p>
 </a>
 One of the notable Infrastructure as Code DevOps tools in the market is Terraform by HashiCorp. It’s an open source IaC tool that offers a consistent Command Line Interface (CLI) workflow to help you manage several cloud services.
 Terraform was written in Go by Mitchell Hashimoto and was released in 2014. It incorporates HashiCorp Configuration Language (HCL), which is a declarative language to allow you to define and offer data center infrastructure. However, you can also use JSON optionally.
@@ -422,7 +422,7 @@ Features and Benefits:
 Here are some DevOps tools for testing:
 ## [Selenium](https://www.selenium.dev/)
 <a>  
-    <p align="center"><img src="img/tools/Selenium.png" width="600"></p>
+    <p align="center"><img src="img/tools/selenium.png" width="600"></p>
 </a>
 If you are finding a resourceful DevOps tool to automate your software testing, Selenium is a good option. You can also use it to automate boring, web administration tasks.
 Selenium is an open-source software released in 2018. It provides a portable framework to carry out the tests in addition to authoring functional tests with no need of learning a scripting language.
@@ -437,7 +437,7 @@ It’s compatible with most web browsers, along with OS such as Windows, macOS, 
 -	It’s used by tech leaders, including Google, IBM, Salesforce, Cognizant, and others
 ## [Tricentis Tosca](https://www.tricentis.com/products/automate-continuous-testing-tosca)
 <a>  
-    <p align="center"><img src="img/tools/Tosca.png" width="600"></p>
+    <p align="center"><img src="img/tools/tosca.png" width="600"></p>
 </a>
 Accelerate software testing using an AI-based, scriptless tool of Tricentis Tosca that takes a no-code approach to perform end-to-end test automation. It combines different aspects of testing such as test automation, case design, data generation and design, and analytics.
 Features and Benefits:
@@ -447,7 +447,7 @@ Features and Benefits:
 -	Supports 160+ enterprise applications and technologies Salesforce, Adobe, Oracle, SAP, Java, .NET, HTML 5, and more.
 ## [TestSigma](https://testsigma.com/)
 <a>  
-    <p align="center"><img src="img/tools/Sigma.png" width="600"></p>
+    <p align="center"><img src="img/tools/sigma.png" width="600"></p>
 </a>
 Although new in the test automation arena, TestSigma is garnering fame due to its impressive offerings. It’s a cloud-based test automation DevOps tool for web, API, and mobile apps. It leverages AI for faster test execution and maintenance.
 Features and Benefits:
@@ -459,7 +459,7 @@ Features and Benefits:
 -	Enables parallel software testing to save cost and time
 ## [IBM Rational Functional Tester](https://www.ibm.com/products/rational-functional-tester)
 <a>  
-    <p align="center"><img src="img/tools/IBM.png" width="600"></p>
+    <p align="center"><img src="img/tools/ibm.png" width="600"></p>
 </a>
 IBM RFT offers automated functional and regression testing in addition to data-driven and GUI testing. It simplifies test editing and visualization with the natural language plus rendered screenshots.
 Features and Benefits:
@@ -485,7 +485,7 @@ Features and Benefits:
 Next, let’s find out some DevOps tools for monitoring:
 ## [Nagios ](https://www.nagios.org/)
 <a>  
-    <p align="center"><img src="img/tools/Nagios.png" width="600"></p>
+    <p align="center"><img src="img/tools/nagios.png" width="600"></p>
 </a>
 When it comes to monitoring IT infrastructure, Nagios is one of the most efficient DevOps tools. It was written in C by Ethan Galstad and released in 2002.
 Nagios is also an open source and free software that monitors infrastructure, systems, and networks. It offers alerting and monitoring services for applications, servers, logs, and switches. The DevOps tool aims to alert users in case of issues and notifies them when they resolve.
@@ -500,7 +500,7 @@ Features and Benefits:
 -	It’s available in Nagios XI, Core, Log Server, and Fusion.
 ## [Prometheus](https://prometheus.io/)
 <a>  
-    <p align="center"><img src="img/tools/Prom.png" width="600"></p>
+    <p align="center"><img src="img/tools/prom.png" width="600"></p>
 </a>
 Power your alerting and metrics using a leading open-source monitoring software of Prometheus. It was written in Go and released in 2012.
 It records metrics in real-time in a time-series database by using powerful queries and highly dimensional data models. Prometheus is popular among the teams leveraging Grafana.
@@ -516,7 +516,7 @@ Features and Benefits:
 -	Supports data exporting from 3rd-party solutions such as JMX metrics, StatsD, HAProxy, and DevOps tools like Docker.
 ## [New Relic](https://newrelic.com/)
 <a>  
-    <p align="center"><img src="img/tools/Relic.png" width="600"></p>
+    <p align="center"><img src="img/tools/relic.png" width="600"></p>
 </a>
 Using New Relic, you can produce better-performing software by analyzing, troubleshooting, and optimizing your overall software stack.
 New Relic is a technology company founded in 2008. The platform reflects every change you make in your program with clarity.
@@ -528,7 +528,7 @@ Features and Benefits:
 -	Transitioning to a data-driven approach from reactive can help improve your customer experience
 ## [PagerDuty](https://newrelic.com/)
 <a>  
-    <p align="center"><img src="img/tools/PagerDuty.png" width="600"></p>
+    <p align="center"><img src="img/tools/pagerduty.png" width="600"></p>
 </a>
 Improve your customer experiences and protect your brand’s reputation using the real-time operations monitoring platform of PagerDuty.
 As one of the most useful DevOps tools, it can help your team achieve less downtime, more productivity, and fewer outages using automation and machine learning.
@@ -542,7 +542,7 @@ Features and Benefits:
 -	Supports 370+ integrations with tools such as Slack, AWS, Atlassian, Zendesk, New Relic, and more.
 ## [Sensu](https://sensu.io/)
 <a>  
-    <p align="center"><img src="img/tools/Sensu.png" width="600"></p>
+    <p align="center"><img src="img/tools/sensu.png" width="600"></p>
 </a>
 Sensu is undoubtedly one of the best DevOps tools out there for monitoring IT infrastructure. It helps you monitor servers, applications, network devices, and containers along with checking application health, measuring business KPI, and gathering and analyzing metrics.
 It was written in pure Ruby and was released in 2011. It utilizes Redis for data storage and rabbitMQ for data exchanges between two components. It’s designed for use in cloud environments with server automation tools such as Ansible, Puppet, etc.
@@ -556,7 +556,7 @@ Features and Benefits:
 -	It’s available as both free and plan license
 ## [Splunk](https://www.splunk.com/)
 <a>  
-    <p align="center"><img src="img/tools/Splunk.png" width="600"></p>
+    <p align="center"><img src="img/tools/splunk.png" width="600"></p>
 </a>
 Monitor your infrastructure performance at cloud scale in real-time using Splunk’s predictive streaming analytics.
 Splunk helps search, monitor, and analyze machine-generated big data using a web-like interface. It allows you to auto-discover, group, breakdown, and explore systems, services, and clouds.
