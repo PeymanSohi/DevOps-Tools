@@ -571,7 +571,7 @@ Features and Benefits:
 -	Enables closed-loop automation like auto-scaling for a seamless end-user experience
 ## [ELK Stack](https://www.elastic.co/what-is/elk-stack)
 <a>  
-    <p align="center"><img src="img/tools/ELK.png" width="600"></p>
+    <p align="center"><img src="img/tools/elk.png" width="600"></p>
 </a>
 Logstash, & Kibana.
 ELK stack allows you to aggregate logs out of your entire applications and systems, analyze logs, create visualizations for infrastructure and application monitoring, security analytics, quick troubleshooting, and more.
